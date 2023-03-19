@@ -7,6 +7,32 @@ Welcome to Developers Cosmos, a GitHub organization dedicated to building innova
 
 Our mission is to create a collaborative environment where students and developers can learn, grow, and experiment with the latest tools and technologies. Whether you're just starting out or you're an experienced developer, we welcome anyone who is passionate about technology and eager to learn.
 
+<p align="left">
+      <a href="https://github.com/developers-cosmos?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/developers-cosmos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/developers-cosmos?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/developers-cosmos?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ## Tech Stack
 
 At Developers Cosmos, we work with a variety of technologies, including:
