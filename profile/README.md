@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Developers%20Cosmos-blue?style=flat-square&logo=github)](https://github.com/developers-cosmos)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/developers-cosmos)
 
-Welcome to Developers Cosmos, a GitHub organization dedicated to building innovative projects using cutting-edge technologies like AI< DevOps, IoT, Cloud Computing, and more!
+Welcome to Developers Cosmos, a GitHub organization dedicated to building innovative projects using cutting-edge technologies like AI, DevOps, IoT, Cloud Computing, and more!
 
 Our mission is to create a collaborative environment where students and developers can learn, grow, and experiment with the latest tools and technologies. Whether you're just starting out or you're an experienced developer, we welcome anyone who is passionate about technology and eager to learn.
 
