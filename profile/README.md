@@ -69,7 +69,7 @@ If you're interested in joining Developers Cosmos, we'd love to have you! Check 
 
 You can reach us through the following channels:
 
-Email: ritheeshbaradwaj@gmail.com , kumartharun435@gmail.com
+Email: ritheeshbaradwaj@gmail.com (Ritheesh) , kumartharun435@gmail.com (Tharun)
 
 ## Thanks a ton! :D
 
